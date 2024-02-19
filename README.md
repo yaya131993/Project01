@@ -28,7 +28,7 @@ The CSS framework that will be used in this project is Semantik
 
 click here to view website: 
 
-![screenshot]()
+![screenshot](./assets/Event%20Vitalz.jpeg)
 
 # project1
 First group project.
