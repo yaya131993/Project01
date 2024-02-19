@@ -26,7 +26,7 @@ backup raidus area that will show activites if you are willing to travel outside
 
 The CSS framework that will be used in this project is Semantik
 
-click here to view website: 
+click here to view website: https://yaya131993.github.io/Project01/
 
 ![screenshot](./assets/Event%20Vitalz.jpeg)
 
